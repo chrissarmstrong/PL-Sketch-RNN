@@ -5,7 +5,7 @@ This is a version of the LabML implementation of SketchRNN modified slightly to 
 [LabML's implementation](https://github.com/lab-ml/nn)
 [LabML's annotated source code](https://lab-ml.com/labml_nn/sketch_rnn/)
 
-LabML also credits [PyTorch Sketch RNN](https://github.com/alexis-jacq/Pytorch-Sketch-RNN) project by
-[Alexis David Jacq](https://github.com/alexis-jacq)
+Varuna Jayasiri (from LabML) also credits [PyTorch Sketch RNN](https://github.com/alexis-jacq/Pytorch-Sketch-RNN) project by
+[Alexis David Jacq](https://github.com/alexis-jacq).
 
 The original paper: [A Neural Representation of Sketch Drawings](https://arxiv.org/abs/1704.03477)
